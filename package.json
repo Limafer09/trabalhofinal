@@ -1,0 +1,26 @@
+{
+  "name": "trabalhofinal",
+  "version": "1.0.0",
+  "description": "trabalhofinal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limafer09/trabalhofinal.git"
+  },
+  "author": "Luis Fernando de Oliveira Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Limafer09/trabalhofinal/issues"
+  },
+  "homepage": "https://github.com/Limafer09/trabalhofinal#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
